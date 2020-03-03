@@ -5,7 +5,7 @@
   <groupId>onlinestore</groupId>
   <artifactId>store</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>store</name>
   <url>http://maven.apache.org</url>
